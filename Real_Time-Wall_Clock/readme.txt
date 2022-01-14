@@ -1,4 +1,4 @@
-Wall Clock Assignment
+Real Time - Wall Clock
 
 Technologies Used:
 		OpenGL
